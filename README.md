@@ -12,12 +12,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello,+I'm+Amna+Khawaja.;Welcome+to+my+GitHub+profile!" alt="Animated Welcome"/>
   </h1>
 
-  <!-- About Me -->
-  <h2>👩‍💻 About Me</h2>
-  <p align="center">
-    Hi! I'm <b>Amna Khawaja</b>, a <b>Computer Science student</b> passionate about programming and Artificial Intelligence.  
-    I have experience in <b>C++</b>, <b>HTML</b>, and <b>CSS</b>, and I'm currently learning <b>Python</b>, <b>AI</b>, and <b>Machine Learning</b>.  
-    I enjoy solving problems, building small projects, and exploring new technologies to enhance my skills and contribute to meaningful software solutions.
+  <!-- Personal Introduction -->
+  <p align="center" style="max-width: 700px; font-size: 16px;">
+    I'm <b>Amna Khawaja</b>, a Computer Science student with experience in <b>C++</b> programming and knowledge of <b>HTML & CSS</b>. Currently, I am diving deep into <b>Python, Artificial Intelligence (AI)</b>, and <b>Machine Learning (ML)</b>. I enjoy solving complex problems, building logical solutions, and continuously learning to enhance my coding and AI skills.
   </p>
 </div>
 
@@ -55,19 +52,19 @@
 <!-- ===================== GITHUB STATS ===================== -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amnakhawja301-create&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?username=YourUsernameHere&hide_border=true&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?username=amnakhawja301-create&hide_border=true&theme=dark" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&hide_border=true&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnakhawja301-create&layout=compact&hide_border=true&theme=dark" alt="Top Languages"/>
 </div>
 
 <hr style="border:2px solid #6C63FF;"/>
 
 <!-- ===================== CONNECT / SOCIAL ===================== -->
-<h2 align="center">📬 Connect</h2>
+<h2 align="center">📬 Connect With Me</h2>
 <p align="center">
-  <a href="https://github.com/YourUsernameHere">
+  <a href="https://github.com/amnakhawja301-create">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:amnakhawja301@gmail.com">

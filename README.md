@@ -57,6 +57,15 @@ Always curious, always learning.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnakhawja301-create&theme=dark"/>
 </div>
 
+## 📈 Contributions Calendar
+<p align="center">
+  
+   
+   ![GitHub Contributions](https://ghchart.rshah.org/amnakhawja301-create)
+</p>
+
+
+
 ---
 
 ## 📬 **Connect With Me**

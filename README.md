@@ -9,7 +9,8 @@
 ---
 
 <!-- ABOUT -->
-<img align="right" width="330" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="coding girl"/>
+<img align="right" width="330" src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="AI Tech Animation" />
+
 
 🌱 I’m currently learning **Python for AI and Machine Learning**  
 💡 I know **C++** and love solving logic-based problems  

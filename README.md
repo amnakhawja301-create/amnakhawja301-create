@@ -1,7 +1,15 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="https://i.ibb.co/8x6tGxV/ai-tech-banner.gif" width="100%" alt="AI Tech Banner"/>
+
+<img width="1024" height="1024" alt="gemini-girl png (2)" src="https://github.com/user-attachments/assets/745c3bf7-6aef-42c7-b8ae-40956382a40c" />
+
+<div style="text-align: center;">
+  <img src="https://images.unsplash.com/photo-1611078484270-1f81b2f9f9a0?auto=format&fit=crop&w=1920&q=80" 
+       style="width: 100%; max-width: 1200px;" 
+       alt="AI Technology Banner"/>
 </div>
+
+
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#9370DB;">Amna Khawaja</span></h1>
 <h3 align="center">💻 AI & Machine Learning Enthusiast | C++ Developer | Python Learner</h3>

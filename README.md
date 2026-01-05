@@ -27,6 +27,11 @@ I enjoy:
 
 Always curious, always learning.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmnaKhawaja301/assets/main/ai-robot.png" width="300" alt="AI Robot"/>
+</p>
+
+
 ---
 
 ## 🧠 **Tech Stack & Skills**
